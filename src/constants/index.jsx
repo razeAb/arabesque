@@ -100,67 +100,67 @@ export const COLD_DRINKS = [
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/RedBullCan.jpg",
+    image: "public/photos/redBull.png",
     title: "Red Bull",
     description: "Energy drink",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/SchweppesBitterLemon.jpg",
+    image: "public/photos/schwepslemon.png",
     title: "Schweppes Bitter Lemon",
     description: "Citrus blend",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/SchweppesGingerAle.jpg",
+    image: "public/photos/gingerale.png",
     title: "Schweppes Ginger Ale",
     description: "Ginger-flavored soda",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/LiptonGreenTea.jpg",
+    image: "public/photos/liptonicetea.png",
     title: "Lipton Green Ice Tea",
     description: "Green tea iced drink",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/LiptonOriginalSparkling.jpg",
+    image: "https://dutchshopper.com/cdn/shop/files/358674_0a0daf47-4818-4c7c-874d-b474eecf7252.png?v=1736658848",
     title: "Lipton Original Sparkling",
     description: "Fizzy iced tea",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/LiptonPeachTea.jpg",
+    image: "public/photos/liptonpeach.png",
     title: "Lipton Peach Ice Tea",
     description: "Peach iced tea",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/OrangeJuiceBottle.jpg",
+    image: "https://www.burgerking.ee/images/optimized/products/orange-juice-desktop-c65f5afd38678e7dfbbef7ea31ed3308.png",
     title: "Orange Juice",
     description: "Fresh orange juice",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/AppleJuiceBottle.jpg",
+    image: "https://www.sunlandjuices.com/app/uploads/2021/10/50cl-Sunland-Apple-Juice-LR.png",
     title: "Apple Juice",
     description: "Sweet apple juice",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/WaterBottle.jpg",
+    image: "https://www.mcdonalds.co.za/media/products/bonaqua-water/Bonaqua-Still.png",
     title: "Water",
     description: "Still water",
     price: "3.5",
   },
   {
-    image: "https://i.imgur.com/SpaWaterBottle.jpg",
+    image:
+      "https://www.dutchexpatshop.com/media/catalog/product/cache/9dd3e46ff2060608618ae5fa799a3cc1/2/2/220720191648_69147FLS-5_720x720.png",
     title: "Spa Water",
     description: "Mineral-rich water",
     price: "3.5",
   },
 ];
-
 
 // About and Contact
 import aboutVideo from "../assets/mission.mov";
