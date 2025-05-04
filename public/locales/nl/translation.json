@@ -1,0 +1,14 @@
+{
+  "dishes": {
+    "title": "Onze Speciale Gerechten",
+    "description": "Ontdek ons menu met gezonde, voedzame en smaakvolle gerechten op basis van traditionele recepten. Zoek naar 🥛 voor gerechten met melk en 🌿 voor vegetarische opties."
+  },
+  "categories": {
+    "All": "Alles",
+    "Arabesque Breakfast": "Arabesque Ontbijt",
+    "Healthy Dishes": "Gezonde Gerechten",
+    "Main Dishes": "Hoofdgerechten",
+    "Pizza": "Pizza",
+    "Cold Drinks": "Koude Dranken"
+  }
+}

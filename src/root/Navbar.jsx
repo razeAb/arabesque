@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import { LINKS } from "../constants/index.jsx";
 import { MoonIcon, SunIcon, MenuIcon, X } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 function Navbar({ theme, onThemeSwitch }) {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
+  const { i18n } = useTranslation();
 
   const toggleMobileMenu = () => setIsMobileOpen(!isMobileOpen);
 
@@ -16,6 +18,8 @@ function Navbar({ theme, onThemeSwitch }) {
     }
     setIsMobileOpen(false);
   };
+
+  const changeLanguage = (lng) => i18n.changeLanguage(lng);
 
   return (
     <nav className="flex justify-center w-screen fixed top-5 z-50 px-3">
@@ -43,15 +47,9 @@ function Navbar({ theme, onThemeSwitch }) {
         <div className="flex items-center gap-4 mr-3">
           {/* Language Buttons */}
           <div className="flex gap-2">
-            {[
-              { emoji: "🇳🇱", label: "Dutch" },
-              { emoji: "🇸🇦", label: "Arabic" },
-              { emoji: "🇺🇸", label: "English" },
-            ].map(({ emoji, label }) => (
-              <button key={label} title={label} className="text-2xl sm:text-3xl hover:animate-wiggle active:scale-90 transition">
-                {emoji}
-              </button>
-            ))}
+            <button title="Dutch" onClick={() => changeLanguage("nl")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇳🇱</button>
+            <button title="Arabic" onClick={() => changeLanguage("ar")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇸🇦</button>
+            <button title="English" onClick={() => changeLanguage("en")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇺🇸</button>
           </div>
 
           {/* Theme Toggle */}

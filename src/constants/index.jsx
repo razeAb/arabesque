@@ -42,16 +42,15 @@ export const ARABESQUE_BREAKFAST = [
 ];
 
 export const HEALTHY_DISHES = [
-  { image: placeholder, title: "Falafel 🌿", description: "Crispy chickpea patties", price: "4.5" },
-  { image: placeholder, title: "Clean Hummus 🌿", description: "Smooth chickpea dip", price: "4.5" },
-  { image: placeholder, title: "Hummus with Meat", description: "Hummus topped with meat", price: "4.5" },
+  { image: "./photos/flafelhealthy.jpeg", title: "Falafel 🌿", description: "Crispy chickpea patties", price: "4.5" },
+  { image: "./photos/hummushealthy.jpeg", title: "Clean Hummus 🌿", description: "Smooth chickpea dip", price: "4.5" },
   { image: placeholder, title: "Beans with Tahina 🌿", description: "Fava beans & tahini", price: "4.5" },
-  { image: placeholder, title: "Tahina with Parsley 🌿", description: "Fresh tahini mix", price: "4.5" },
-  { image: placeholder, title: "Tabula 🌿", description: "Parsley, tomatoes & bulgur", price: "4.5" },
-  { image: placeholder, title: "Fatush 🌿", description: "Druze salad with pita", price: "4.5" },
-  { image: placeholder, title: "Baba Ghanoj 🌿", description: "Smoky eggplant dip", price: "4.5" },
-  { image: placeholder, title: "Chopped Salad 🌿", description: "Cucumber, mint, tomato", price: "4.5" },
-  { image: placeholder, title: "Fries 🌿", description: "Golden crispy fries", price: "4.5" },
+  { image: "./photos/tahinahealthy.jpeg", title: "Tahina with Parsley 🌿", description: "Fresh tahini mix", price: "4.5" },
+  { image: "./photos/tabulahealthy.jpeg", title: "Tabula 🌿", description: "Parsley, tomatoes & bulgur", price: "4.5" },
+  { image: "./photos/fatushhealthy.jpeg", title: "Fatush 🌿", description: "Druze salad with pita", price: "4.5" },
+  { image: "./photos/babahealthy.jpeg", title: "Baba Ghanoj 🌿", description: "Smoky eggplant dip", price: "4.5" },
+  { image: "./photos/choppedsaladhealthy.jpeg", title: "Chopped Salad 🌿", description: "Cucumber, mint, tomato", price: "4.5" },
+  { image: "./photos/fries.jpeg", title: "Fries 🌿", description: "Golden crispy fries", price: "4.5" },
 ];
 
 export const MAIN_DISHES = [
@@ -190,9 +189,8 @@ export const DISHESTEXT = {
   header: "Our Signature Dishes",
   description: (
     <div className="font-Geist tracking-wider text-center dark:text-seconadryText">
-      Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes.
-      <br />
-      Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options.
+      <p>Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes.</p>
+      <p>Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options.</p>
     </div>
   ),
 };
