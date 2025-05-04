@@ -1,0 +1,168 @@
+{
+  "dishes": {
+    "title": "Our Signature Dishes",
+    "description": "Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes. Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options."
+  },
+  "categories": {
+    "All": "All",
+    "Arabesque Breakfast": "Arabesque Breakfast",
+    "Healthy Dishes": "Healthy Dishes",
+    "Main Dishes": "Main Dishes",
+    "Pizza": "Pizza",
+    "Cold Drinks": "Cold Drinks"
+  },
+  "menu": {
+    "Arabesque Breakfast": {
+      "title": "Arabesque Breakfast",
+      "description": "Start your day with falafel, tabbouleh, salad, olives, mankoosha & drink."
+    },
+    "Falafel 🌿": {
+      "title": "Falafel 🌿",
+      "description": "Crispy chickpea patties"
+    },
+    "Clean Hummus 🌿": {
+      "title": "Clean Hummus 🌿",
+      "description": "Smooth chickpea dip"
+    },
+    "Beans with Tahina 🌿": {
+      "title": "Beans with Tahina 🌿",
+      "description": "Fava beans & tahini"
+    },
+    "Tahina with Parsley 🌿": {
+      "title": "Tahina with Parsley 🌿",
+      "description": "Fresh tahini mix"
+    },
+    "Tabula 🌿": {
+      "title": "Tabula 🌿",
+      "description": "Parsley, tomatoes & bulgur"
+    },
+    "Fatush 🌿": {
+      "title": "Fatush 🌿",
+      "description": "Druze salad with pita"
+    },
+    "Baba Ghanoj 🌿": {
+      "title": "Baba Ghanoj 🌿",
+      "description": "Smoky eggplant dip"
+    },
+    "Chopped Salad 🌿": {
+      "title": "Chopped Salad 🌿",
+      "description": "Cucumber, mint, tomato"
+    },
+    "Fries 🌿": {
+      "title": "Fries 🌿",
+      "description": "Golden crispy fries"
+    },
+    "Veal Shawarma – Pita": {
+      "title": "Veal Shawarma – Pita",
+      "description": "Juicy veal in pita"
+    },
+    "Veal Shawarma – Plate": {
+      "title": "Veal Shawarma – Plate",
+      "description": "Veal with sides"
+    },
+    "Chicken Shawarma – Pita 🥛": {
+      "title": "Chicken Shawarma – Pita 🥛",
+      "description": "Chicken in pita"
+    },
+    "Chicken Shawarma – Plate": {
+      "title": "Chicken Shawarma – Plate",
+      "description": "Grilled chicken with sides"
+    },
+    "Crispy Chicken Breast": {
+      "title": "Crispy Chicken Breast",
+      "description": "Breaded chicken breast"
+    },
+    "Crispy Chicken Wings": {
+      "title": "Crispy Chicken Wings",
+      "description": "Spicy wings"
+    },
+    "Falafel Plate (8 balls) 🌿": {
+      "title": "Falafel Plate (8 balls) 🌿",
+      "description": "8 falafel balls with sides"
+    },
+    "Falafel in Pita 🌿": {
+      "title": "Falafel in Pita 🌿",
+      "description": "Classic wrap"
+    },
+    "Dish of Hummus 🌿": {
+      "title": "Dish of Hummus 🌿",
+      "description": "Large hummus portion"
+    },
+    "Dish of Beans 🌿": {
+      "title": "Dish of Beans 🌿",
+      "description": "Warm seasoned beans"
+    },
+    "Veal Meat Mansaf": {
+      "title": "Veal Meat Mansaf",
+      "description": "Veal, rice & yogurt sauce"
+    },
+    "Chicken Mansaf": {
+      "title": "Chicken Mansaf",
+      "description": "Chicken, rice & yogurt sauce"
+    },
+    "Small Pizza 🥛": {
+      "title": "Small Pizza 🥛",
+      "description": "Cheesy personal pizza"
+    },
+    "Big Pizza 🥛": {
+      "title": "Big Pizza 🥛",
+      "description": "Large sharing pizza"
+    },
+    "Heineken Beer": {
+      "title": "Heineken Beer",
+      "description": "Crisp refreshing lager"
+    },
+    "Coca Cola Regular / Zero": {
+      "title": "Coca Cola Regular / Zero",
+      "description": "Classic fizzy soda"
+    },
+    "Fanta": {
+      "title": "Fanta",
+      "description": "Orange flavored soda"
+    },
+    "Sprite": {
+      "title": "Sprite",
+      "description": "Lemon-lime soda"
+    },
+    "Red Bull": {
+      "title": "Red Bull",
+      "description": "Energy drink"
+    },
+    "Schweppes Bitter Lemon": {
+      "title": "Schweppes Bitter Lemon",
+      "description": "Citrus blend"
+    },
+    "Schweppes Ginger Ale": {
+      "title": "Schweppes Ginger Ale",
+      "description": "Ginger-flavored soda"
+    },
+    "Lipton Green Ice Tea": {
+      "title": "Lipton Green Ice Tea",
+      "description": "Green tea iced drink"
+    },
+    "Lipton Original Sparkling": {
+      "title": "Lipton Original Sparkling",
+      "description": "Fizzy iced tea"
+    },
+    "Lipton Peach Ice Tea": {
+      "title": "Lipton Peach Ice Tea",
+      "description": "Peach iced tea"
+    },
+    "Orange Juice": {
+      "title": "Orange Juice",
+      "description": "Fresh orange juice"
+    },
+    "Apple Juice": {
+      "title": "Apple Juice",
+      "description": "Sweet apple juice"
+    },
+    "Water": {
+      "title": "Water",
+      "description": "Still water"
+    },
+    "Spa Water": {
+      "title": "Spa Water",
+      "description": "Mineral-rich water"
+    }
+  }
+}

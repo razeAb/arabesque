@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 
 function Navbar({ theme, onThemeSwitch }) {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const toggleMobileMenu = () => setIsMobileOpen(!isMobileOpen);
 
@@ -38,7 +38,7 @@ function Navbar({ theme, onThemeSwitch }) {
               onClick={(e) => handleScroll(e, link.targetId)}
               className="text-sm px-2 text-primaryText-light dark:text-primaryText-dark hover:opacity-70"
             >
-              {link.text}
+              {t(link.text)}
             </a>
           ))}
         </div>
@@ -47,9 +47,15 @@ function Navbar({ theme, onThemeSwitch }) {
         <div className="flex items-center gap-4 mr-3">
           {/* Language Buttons */}
           <div className="flex gap-2">
-            <button title="Dutch" onClick={() => changeLanguage("nl")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇳🇱</button>
-            <button title="Arabic" onClick={() => changeLanguage("ar")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇸🇦</button>
-            <button title="English" onClick={() => changeLanguage("en")} className="text-2xl sm:text-3xl hover:animate-wiggle">🇺🇸</button>
+            <button title="Dutch" onClick={() => changeLanguage("nl")} className="text-2xl sm:text-3xl hover:animate-wiggle">
+              🇳🇱
+            </button>
+            <button title="Arabic" onClick={() => changeLanguage("ar")} className="text-2xl sm:text-3xl hover:animate-wiggle">
+              🇸🇦
+            </button>
+            <button title="English" onClick={() => changeLanguage("en")} className="text-2xl sm:text-3xl hover:animate-wiggle">
+              🇺🇸
+            </button>
           </div>
 
           {/* Theme Toggle */}

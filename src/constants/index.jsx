@@ -21,15 +21,6 @@ export const LIST = {
   list5: "Contact Us",
 };
 
-// HERO IMAGES
-import hero1 from "../assets/hero1.png";
-import hero2 from "../assets/hero2.png";
-import hero3 from "../assets/hero3.png";
-import hero5 from "../assets/hero5.png";
-import hero6 from "../assets/hero6.png";
-
-export const HERO = [{ image: hero1 }, { image: hero2 }, { image: hero3 }, { image: hero5 }, { image: hero6 }];
-
 const placeholder = "/photos/placeholder.jpeg";
 
 export const ARABESQUE_BREAKFAST = [
@@ -44,7 +35,7 @@ export const ARABESQUE_BREAKFAST = [
 export const HEALTHY_DISHES = [
   { image: "./photos/flafelhealthy.jpeg", title: "Falafel 🌿", description: "Crispy chickpea patties", price: "4.5" },
   { image: "./photos/hummushealthy.jpeg", title: "Clean Hummus 🌿", description: "Smooth chickpea dip", price: "4.5" },
-  { image: placeholder, title: "Beans with Tahina 🌿", description: "Fava beans & tahini", price: "4.5" },
+  { image: "./photos/beanshealthy.jpeg", title: "Beans with Tahina 🌿", description: "Fava beans & tahini", price: "4.5" },
   { image: "./photos/tahinahealthy.jpeg", title: "Tahina with Parsley 🌿", description: "Fresh tahini mix", price: "4.5" },
   { image: "./photos/tabulahealthy.jpeg", title: "Tabula 🌿", description: "Parsley, tomatoes & bulgur", price: "4.5" },
   { image: "./photos/fatushhealthy.jpeg", title: "Fatush 🌿", description: "Druze salad with pita", price: "4.5" },
@@ -162,21 +153,11 @@ export const COLD_DRINKS = [
 ];
 
 // About and Contact
-import aboutVideo from "../assets/mission.mov";
 
 export const ABOUT = {
-  video: aboutVideo,
   header: "Passion for Flavor, Crafted with Love",
   content:
     "Welcome to Arabesque, where we bring people together with authentic food and warm hospitality. Experience traditional dishes, made fresh and served with love.",
-};
-
-export const CONTACT = {
-  header: "Get in Touch",
-  address: "123 Falafel Street, Arabesque Town",
-  phone: "+972 50-000-0000",
-  email: "contact@arabesque.com",
-  description: "Have questions or feedback? We’re here to help! Get in touch and we’ll respond as soon as possible.",
 };
 
 export const HEROTEXTE = {
@@ -193,10 +174,4 @@ export const DISHESTEXT = {
       <p>Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options.</p>
     </div>
   ),
-};
-
-export const BENEF = {
-  benef1: "Authentic Ingredients",
-  benef2: "Delicious Flavors",
-  benef3: "Fast Delivery",
 };

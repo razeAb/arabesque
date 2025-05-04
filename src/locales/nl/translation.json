@@ -1,0 +1,168 @@
+{
+  "dishes": {
+    "title": "Onze Speciale Gerechten",
+    "description": "Ontdek ons menu met gezonde, voedzame en smaakvolle gerechten op basis van traditionele recepten. Zoek naar 🥛 voor gerechten met melk en 🌿 voor vegetarische opties."
+  },
+  "categories": {
+    "All": "Alles",
+    "Arabesque Breakfast": "Arabesque Ontbijt",
+    "Healthy Dishes": "Gezonde Gerechten",
+    "Main Dishes": "Hoofdgerechten",
+    "Pizza": "Pizza",
+    "Cold Drinks": "Koude Dranken"
+  },
+  "menu": {
+    "Arabesque Breakfast": {
+      "title": "Arabesque Ontbijt",
+      "description": "Begin je dag met falafel, tabouleh, salade, olijven, mankoosha en een drankje."
+    },
+    "Falafel 🌿": {
+      "title": "Falafel 🌿",
+      "description": "Krokante kikkererwtenballetjes"
+    },
+    "Clean Hummus 🌿": {
+      "title": "Schone Hummus 🌿",
+      "description": "Romige kikkererwtenpuree"
+    },
+    "Beans with Tahina 🌿": {
+      "title": "Bonen met Tahina 🌿",
+      "description": "Favabonen met tahini"
+    },
+    "Tahina with Parsley 🌿": {
+      "title": "Tahina met Peterselie 🌿",
+      "description": "Verse tahini mix"
+    },
+    "Tabula 🌿": {
+      "title": "Tabula 🌿",
+      "description": "Peterselie, tomaten en bulgur"
+    },
+    "Fatush 🌿": {
+      "title": "Fatush 🌿",
+      "description": "Druzische salade met pita"
+    },
+    "Baba Ghanoj 🌿": {
+      "title": "Baba Ghanoj 🌿",
+      "description": "Gerookte auberginepuree"
+    },
+    "Chopped Salad 🌿": {
+      "title": "Gesneden Salade 🌿",
+      "description": "Komkommer, munt, tomaat"
+    },
+    "Fries 🌿": {
+      "title": "Frietjes 🌿",
+      "description": "Goudbruine krokante frietjes"
+    },
+    "Veal Shawarma – Pita": {
+      "title": "Kalfsshawarma – Pita",
+      "description": "Sappig kalfsvlees in pita"
+    },
+    "Veal Shawarma – Plate": {
+      "title": "Kalfsshawarma – Schotel",
+      "description": "Kalfsvlees met bijgerechten"
+    },
+    "Chicken Shawarma – Pita 🥛": {
+      "title": "Kipshawarma – Pita 🥛",
+      "description": "Kip in pita"
+    },
+    "Chicken Shawarma – Plate": {
+      "title": "Kipshawarma – Schotel",
+      "description": "Gegrilde kip met bijgerechten"
+    },
+    "Crispy Chicken Breast": {
+      "title": "Krokante Kipfilet",
+      "description": "Gepaneerde kipfilet"
+    },
+    "Crispy Chicken Wings": {
+      "title": "Krokante Kipvleugels",
+      "description": "Pittige kipvleugels"
+    },
+    "Falafel Plate (8 balls) 🌿": {
+      "title": "Falafel Schotel (8 ballen) 🌿",
+      "description": "8 falafel ballen met bijgerechten"
+    },
+    "Falafel in Pita 🌿": {
+      "title": "Falafel in Pita 🌿",
+      "description": "Klassieke wrap"
+    },
+    "Dish of Hummus 🌿": {
+      "title": "Portie Hummus 🌿",
+      "description": "Grote portie hummus"
+    },
+    "Dish of Beans 🌿": {
+      "title": "Portie Bonen 🌿",
+      "description": "Warme gekruide bonen"
+    },
+    "Veal Meat Mansaf": {
+      "title": "Kalfsvlees Mansaf",
+      "description": "Kalfsvlees, rijst en yoghurtsaus"
+    },
+    "Chicken Mansaf": {
+      "title": "Kip Mansaf",
+      "description": "Kip, rijst en yoghurtsaus"
+    },
+    "Small Pizza 🥛": {
+      "title": "Kleine Pizza 🥛",
+      "description": "Kleine persoonlijke pizza"
+    },
+    "Big Pizza 🥛": {
+      "title": "Grote Pizza 🥛",
+      "description": "Grote pizza om te delen"
+    },
+    "Heineken Beer": {
+      "title": "Heineken Bier",
+      "description": "Fris verfrissend pils"
+    },
+    "Coca Cola Regular / Zero": {
+      "title": "Coca Cola Normaal / Zero",
+      "description": "Klassieke bruisende frisdrank"
+    },
+    "Fanta": {
+      "title": "Fanta",
+      "description": "Sinaasappelfrisdrank"
+    },
+    "Sprite": {
+      "title": "Sprite",
+      "description": "Citroen-limoen frisdrank"
+    },
+    "Red Bull": {
+      "title": "Red Bull",
+      "description": "Energiedrank"
+    },
+    "Schweppes Bitter Lemon": {
+      "title": "Schweppes Bitter Lemon",
+      "description": "Citrusmix"
+    },
+    "Schweppes Ginger Ale": {
+      "title": "Schweppes Ginger Ale",
+      "description": "Gemberfrisdrank"
+    },
+    "Lipton Green Ice Tea": {
+      "title": "Lipton Groene IJsthee",
+      "description": "Groene ijsthee"
+    },
+    "Lipton Original Sparkling": {
+      "title": "Lipton Origineel Bruisend",
+      "description": "Bruisende ijsthee"
+    },
+    "Lipton Peach Ice Tea": {
+      "title": "Lipton Perzik IJsthee",
+      "description": "Perzik ijsthee"
+    },
+    "Orange Juice": {
+      "title": "Sinaasappelsap",
+      "description": "Vers sinaasappelsap"
+    },
+    "Apple Juice": {
+      "title": "Appelsap",
+      "description": "Zoet appelsap"
+    },
+    "Water": {
+      "title": "Water",
+      "description": "Plat water"
+    },
+    "Spa Water": {
+      "title": "Spa Water",
+      "description": "Mineraalrijk water"
+    }
+  }
+}

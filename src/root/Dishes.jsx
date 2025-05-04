@@ -20,9 +20,7 @@ const Dishes = () => {
     ...COLD_DRINKS.map((item) => ({ ...item, category: "Cold Drinks" })),
   ];
 
-  const filteredItems = selectedCategory === "All"
-    ? allItems
-    : allItems.filter((item) => item.category === selectedCategory);
+  const filteredItems = selectedCategory === "All" ? allItems : allItems.filter((item) => item.category === selectedCategory);
 
   return (
     <section id="menu" className="container flex flex-col items-center mx-auto py-16">
@@ -31,9 +29,7 @@ const Dishes = () => {
           {t("dishes.title")} {/* ← e.g., "Our Signature Dishes" */}
         </h1>
 
-        <div className="font-Geist tracking-wider text-center dark:text-seconadryText">
-          {t("dishes.description")}
-        </div>
+        <div className="font-Geist tracking-wider text-center dark:text-seconadryText">{t("dishes.description")}</div>
 
         <div className="w-full flex justify-center items-center my-10">
           <div className="font-Geist grid grid-cols-3 gap-5 md:grid-cols-4 lg:grid-flow-col md:justify-center md:space-x-2">
