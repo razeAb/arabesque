@@ -19,7 +19,6 @@ i18n
       ar: { translation: ar },
       nl: { translation: nl },
     },
-    debug: true, // Enable debug to see what's happening with translations
   });
 
 export default i18n;
