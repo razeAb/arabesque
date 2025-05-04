@@ -45,6 +45,12 @@ export const HEALTHY_DISHES = [
 ];
 
 export const MAIN_DISHES = [
+  {
+    image: placeholder,
+    title: "Hummus with Meat",
+    description: "Creamy hummus topped with spiced meat",
+    price: "13",
+  },
   { image: placeholder, title: "Veal Shawarma – Pita", description: "Juicy veal in pita", price: "8" },
   { image: placeholder, title: "Veal Shawarma – Plate", description: "Veal with sides", price: "15" },
   { image: placeholder, title: "Chicken Shawarma – Pita 🥛", description: "Chicken in pita", price: "7" },
