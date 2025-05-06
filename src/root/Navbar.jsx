@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import { LINKS } from "../constants/index.jsx";
 import { MoonIcon, SunIcon, MenuIcon, X } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import USAFlag from "../components/flags/usaFlag.jsx";
+import SaudiFlag from "../components/flags/saudiFlag.jsx";
+import DutchFlag from "../components/flags/netherlandsFlag.jsx";
 
 function Navbar({ theme, onThemeSwitch }) {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
@@ -44,17 +47,17 @@ function Navbar({ theme, onThemeSwitch }) {
         </div>
 
         {/* Right Controls */}
-        <div className="flex items-center gap-4 mr-3">
-          {/* Language Buttons */}
-          <div className="flex gap-2">
-            <button title="Dutch" onClick={() => changeLanguage("nl")} className="text-2xl sm:text-3xl hover:animate-wiggle">
-              🇳🇱
+        <div className="flex items-center gap-3 mr-3">
+          {/* Emoji Flag Buttons */}
+          <div className="flex gap-2 text-2xl">
+            <button onClick={() => changeLanguage("en")} title="English" className="hover:animate-wiggle">
+              <USAFlag />
             </button>
-            <button title="Arabic" onClick={() => changeLanguage("ar")} className="text-2xl sm:text-3xl hover:animate-wiggle">
-              🇸🇦
+            <button onClick={() => changeLanguage("ar")} title="Arabic" className="hover:animate-wiggle">
+              <SaudiFlag />
             </button>
-            <button title="English" onClick={() => changeLanguage("en")} className="text-2xl sm:text-3xl hover:animate-wiggle">
-              🇺🇸
+            <button onClick={() => changeLanguage("nl")} title="Dutch" className="hover:animate-wiggle">
+              <DutchFlag />
             </button>
           </div>
 
@@ -84,7 +87,7 @@ function Navbar({ theme, onThemeSwitch }) {
               onClick={(e) => handleScroll(e, link.targetId)}
               className="text-center py-3 text-lg font-medium uppercase hover:opacity-80"
             >
-              {link.text}
+              {t(link.text)}
             </a>
           ))}
         </div>
