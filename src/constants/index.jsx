@@ -53,22 +53,27 @@ export const MAIN_DISHES = [
   },
   { image: placeholder, title: "Veal Shawarma – Pita", description: "Juicy veal in pita", price: "8" },
   { image: placeholder, title: "Veal Shawarma – Plate", description: "Veal with sides", price: "15" },
-  { image: '.\photos\chickenShawamaPita.jpg', title: "Chicken Shawarma – Pita 🥛", description: "Chicken in pita", price: "7" },
-  { image: ".\photos\chickenShawarma.jpg", title: "Chicken Shawarma – Plate", description: "Grilled chicken with sides", price: "15" },
-  { image: '.\photos\crispyChickenBreast.jpg', title: "Crispy Chicken Breast", description: "Breaded chicken breast", price: "15" },
+  { image: "./photos/chickenShawamaPita.jpg", title: "Chicken Shawarma – Pita 🥛", description: "Chicken in pita", price: "7" },
+  { image: "./photos/chickenShawarma.jpg", title: "Chicken Shawarma – Plate", description: "Grilled chicken with sides", price: "15" },
+  { image: "./photos/crispyChickenBreast.jpg", title: "Crispy Chicken Breast", description: "Breaded chicken breast", price: "15" },
   { image: placeholder, title: "Crispy Chicken Wings", description: "Spicy wings", price: "15" },
-  { image: ".\photos\falafelPlates.jpg", title: "Falafel Plate (8 balls) 🌿", description: "8 falafel balls with sides", price: "9" },
+  { image: "./photos/falafelPlates.jpg", title: "Falafel Plate (8 balls) 🌿", description: "8 falafel balls with sides", price: "9" },
   { image: placeholder, title: "Falafel in Pita 🌿", description: "Classic wrap", price: "7" },
-  { image: '.\photos\dishOfHummus.jpg', title: "Dish of Hummus 🌿", description: "Large hummus portion", price: "12" },
-  { image: '.\photos\dishOfBeans.jpg', title: "Dish of Beans 🌿", description: "Warm seasoned beans", price: "12" },
+  { image: "./photos/dishOfHummus.jpg", title: "Dish of Hummus 🌿", description: "Large hummus portion", price: "12" },
+  { image: "./photos/dishOfBeans.jpg", title: "Dish of Beans 🌿", description: "Warm seasoned beans", price: "12" },
   { image: placeholder, title: "Veal Meat Mansaf", description: "Veal, rice & yogurt sauce", price: "15" },
-  { image: '.\photos\chickenMansaf.jpg', title: "Chicken Mansaf", description: "Chicken, rice & yogurt sauce", price: "14" },
+  { image: "./photos/chickenMansaf.jpg", title: "Chicken Mansaf", description: "Chicken, rice & yogurt sauce", price: "14" },
 ];
 
 export const PIZZA = [
   { image: "./photos/smallPizza.jpg", title: "Small Pizza 🥛", description: "Cheesy personal pizza", price: "4.5" },
   { image: "./photos/bigPizza.jpg", title: "Big Pizza 🥛", description: "Large sharing pizza", price: "8" },
-  { image: "./photos/specialManakeesh.jpg", title: "Special Manakeesh", description: "Selection of different toppings on oven bread", price: "8" },
+  {
+    image: "./photos/specialManakeesh.jpg",
+    title: "Special Manakeesh",
+    description: "Selection of different toppings on oven bread",
+    price: "8",
+  },
   { image: "./photos/miniManakeesh.jpg", title: "Mini Manakeesh 🥛", description: "Ask the waiter", price: "2.5" },
 ];
 
