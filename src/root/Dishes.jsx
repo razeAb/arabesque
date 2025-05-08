@@ -33,18 +33,22 @@ const Dishes = () => {
           <p>{t("dishes.description")}</p>
 
           <div className="bg-red-600 text-white text-center py-2 text-sm md:text-base font-semibold mt-4">
-            {t("dishes.phoneTitle")}
-            <a href="tel:+31687980600" className="underline mx-1">
-              +31 6 87980600
-            </a>{" "}
-            /
-            <a href="tel:+31685566544" className="underline mx-1">
-              +31 6 85566544
-            </a>{" "}
-            /
-            <a href="tel:+31623545600" className="underline mx-1">
-              +31 6 23545600
-            </a>
+            <span className="rtl:text-right ltr:text-center">
+              {t("dishes.phoneTitle")}
+              <span dir="ltr" className="inline-block mx-2">
+                <a href="tel:+31687980600" className="underline mx-1">
+                  +31 6 87980600
+                </a>{" "}
+                /
+                <a href="tel:+31685566544" className="underline mx-1">
+                  +31 6 85566544
+                </a>{" "}
+                /
+                <a href="tel:+31623545600" className="underline mx-1">
+                  +31 6 23545600
+                </a>
+              </span>
+            </span>
           </div>
         </div>
 
