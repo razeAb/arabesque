@@ -62,7 +62,7 @@ export const MAIN_DISHES = [
   { image: "./photos/dishOfHummus.jpg", title: "Dish of Hummus 🌿", description: "Large hummus portion", price: "12" },
   { image: "./photos/dishOfBeans.jpg", title: "Dish of Beans 🌿", description: "Warm seasoned beans", price: "12" },
   { image: placeholder, title: "Veal Meat Mansaf", description: "Veal, rice & yogurt sauce", price: "15" },
-  { image: "./photos/chickenMansaf.jpg", title: "Chicken Msakhan", description: "Chicken, rice & yogurt sauce", price: "15" },
+  { image: "./photos/chickenMansaf.jpg", title: "Chicken Msakhan", description: "Chicken, bread & onion", price: "15" },
 ];
 
 export const PIZZA = [
