@@ -14,167 +14,131 @@
   "menu": {
     "Arabesque Breakfast": {
       "title": "Arabesque Breakfast",
-      "description": "Start your day with falafel, tabbouleh, salad, olives, mankoosha & drink."
+      "description": "Start your day with our special omelet or boiled egg, hummus, beans, falafel, tabbouleh, chopped salad, olives, a mankoosha of your choice, and a hot or cold drink."
     },
-    "Falafel 🌿": {
-      "title": "Falafel 🌿",
-      "description": "Crispy chickpea patties"
-    },
-    "Hummus with Meat": {
-      "title": "Hummus with Meat",
-      "description": "Creamy hummus topped with spiced meat"
-    },
+    "Falafel 🌿": { "title": "Falafel 🌿", "description": "Golden, crispy chickpea patties, seasoned with Middle Eastern spices." },
     "Clean Hummus 🌿": {
       "title": "Clean Hummus 🌿",
-      "description": "Smooth chickpea dip"
+      "description": "Our classic creamy hummus made from fresh chickpeas, tahini, lemon, and garlic."
     },
+    "Hummus with Meat": { "title": "Hummus with Meat", "description": "Smooth hummus topped with tender minced meat sautéed in spices." },
     "Beans with Tahina 🌿": {
       "title": "Beans with Tahina 🌿",
-      "description": "Fava beans & tahini"
+      "description": "Hearty fava beans blended with tahini for a rich and earthy flavor."
     },
     "Tahina with Parsley 🌿": {
       "title": "Tahina with Parsley 🌿",
-      "description": "Fresh tahini mix"
+      "description": "A refreshing tahini dip topped with finely chopped parsley – perfect for dipping or spreading."
     },
     "Tabula 🌿": {
       "title": "Tabula 🌿",
-      "description": "Parsley, tomatoes & bulgur"
+      "description": "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty."
     },
-    "Fatush 🌿": {
-      "title": "Fatush 🌿",
-      "description": "Druze salad with pita"
+    "Fatush – Druze Salad 🌿": {
+      "title": "Fatush – Druze Salad 🌿",
+      "description": "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing."
     },
-    "Baba Ghanoj 🌿": {
-      "title": "Baba Ghanoj 🌿",
-      "description": "Smoky eggplant dip"
+    "Baba Ghanoj 🌿": { "title": "Baba Ghanoj 🌿", "description": "Smoky roasted eggplant mashed with tahini, garlic, and lemon." },
+    "Chopped Vegetable Salad 🌿": {
+      "title": "Chopped Vegetable Salad 🌿",
+      "description": "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing."
     },
-    "Chopped Salad 🌿": {
-      "title": "Chopped Salad 🌿",
-      "description": "Cucumber, mint, tomato"
-    },
-    "Fries 🌿": {
-      "title": "Fries 🌿",
-      "description": "Golden crispy fries"
-    },
+    "Fries 🌿": { "title": "Fries 🌿", "description": "Golden, crispy French fries – a perfect side or snack." },
+
     "Veal Shawarma – Pita": {
       "title": "Veal Shawarma – Pita",
-      "description": "Juicy veal in pita"
+      "description": "Juicy veal shawarma wrapped in fresh pita with our signature toppings."
     },
     "Veal Shawarma – Plate": {
       "title": "Veal Shawarma – Plate",
-      "description": "Veal with sides"
+      "description": "Sliced veal shawarma served with a full platter of salad, fries, sauces, and tahini."
     },
-    "Chicken Shawarma – Pita 🥛": {
-      "title": "Chicken Shawarma – Pita 🥛",
-      "description": "Chicken in pita"
+    "Chicken Shawarma – Pita": {
+      "title": "Chicken Shawarma – Pita",
+      "description": "Tender chicken shawarma packed in pita with veggies and flavorful sauces."
     },
     "Chicken Shawarma – Plate": {
       "title": "Chicken Shawarma – Plate",
-      "description": "Grilled chicken with sides"
+      "description": "Grilled chicken shawarma served with salad, fries, tahini, and our full spread of sides."
     },
-    "Crispy Chicken Breast": {
-      "title": "Crispy Chicken Breast",
-      "description": "Breaded chicken breast"
+
+    "Grilled Chicken": { "title": "Grilled Chicken", "description": "Grilled to perfection – juicy and flavorful whole chicken." },
+    "Half Grilled Chicken": {
+      "title": "Half Grilled Chicken",
+      "description": "Half portion of our juicy grilled chicken – perfect for lighter appetites."
     },
-    "Crispy Chicken Wings": {
-      "title": "Crispy Chicken Wings",
-      "description": "Spicy wings"
+
+    "Crispy Chicken Breast – Pita": {
+      "title": "Crispy Chicken Breast – Pita",
+      "description": "Crispy on the outside, juicy on the inside – served in pita with all the fixings."
     },
-    "Falafel Plate (8 balls) 🌿": {
-      "title": "Falafel Plate (8 balls) 🌿",
-      "description": "8 falafel balls with sides"
+    "Crispy Chicken Breast (4 pieces)": {
+      "title": "Crispy Chicken Breast (4 pieces)",
+      "description": "Crispy on the outside, juicy on the inside – served with all the fixings."
     },
-    "Falafel in Pita 🌿": {
-      "title": "Falafel in Pita 🌿",
-      "description": "Classic wrap"
+    "Crispy Chicken Wings (6 pieces)": {
+      "title": "Crispy Chicken Wings (6 pieces)",
+      "description": "Perfectly seasoned chicken wings fried to golden perfection."
     },
-    "Dish of Hummus 🌿": {
-      "title": "Dish of Hummus 🌿",
-      "description": "Large hummus portion"
+
+    "Broasted Chicken (4 pieces)": {
+      "title": "Broasted Chicken (4 pieces)",
+      "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
     },
-    "Dish of Beans 🌿": {
-      "title": "Dish of Beans 🌿",
-      "description": "Warm seasoned beans"
+    "Broasted Chicken (8 pieces)": {
+      "title": "Broasted Chicken (8 pieces)",
+      "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
     },
-    "Veal Meat Mansaf": {
-      "title": "Veal Meat Mansaf",
-      "description": "Veal, rice & yogurt sauce"
+
+    "Falafel in a Plate (10 Balls) 🌿": {
+      "title": "Falafel in a Plate (10 Balls) 🌿",
+      "description": "A hearty plate of falafel, served with salad, tahini, and our full garnish."
     },
+    "Falafel in Pita 🌿": { "title": "Falafel in Pita 🌿", "description": "Classic falafel wrap with crunchy veggies and creamy tahini." },
+
+    "A Dish of Hummus 🌿": {
+      "title": "A Dish of Hummus 🌿",
+      "description": "A generous portion of our signature hummus served with sides for dipping."
+    },
+    "A Dish of Beans 🌿": {
+      "title": "A Dish of Beans 🌿",
+      "description": "Warm fava beans cooked to perfection and seasoned with lemon, garlic, and olive oil."
+    },
+
     "Chicken Mansaf": {
       "title": "Chicken Mansaf",
-      "description": "Chicken, rice & yogurt sauce"
+      "description": "Slow-cooked chicken over spiced rice, finished with tangy yogurt sauce and roasted nuts."
     },
-    "Special Manakeesh": {
-  "title": "Special Manakeesh",
-  "description": "Selection of different toppings on oven bread"
-},
-"Mini Manakeesh 🥛": {
-  "title": "Mini Manakeesh 🥛",
-  "description": "Ask the waiter"
-},
-    "Small Pizza 🥛": {
-      "title": "Small Pizza 🥛",
-      "description": "Cheesy personal pizza"
+
+    "Small Pizza": { "title": "Small Pizza", "description": "Personal-size pizza with melted cheese and a golden crust." },
+    "Big Pizza": { "title": "Big Pizza", "description": "Family-size pizza, great for sharing – cheesy, warm, and satisfying." },
+    "Meat Fatayer": { "title": "Meat Fatayer", "description": "Savory pastry filled with seasoned meat." },
+
+    "Heineken Beer": { "title": "Heineken Beer", "description": "Crisp and refreshing lager – the perfect chill companion." },
+    "Coca-Cola Regular / Zero": {
+      "title": "Coca-Cola Regular / Zero",
+      "description": "Classic cola or sugar-free option – always hits the spot."
     },
-    "Big Pizza 🥛": {
-      "title": "Big Pizza 🥛",
-      "description": "Large sharing pizza"
-    },
-    "Heineken Beer": {
-      "title": "Heineken Beer",
-      "description": "Crisp refreshing lager"
-    },
-    "Coca Cola Regular / Zero": {
-      "title": "Coca Cola Regular / Zero",
-      "description": "Classic fizzy soda"
-    },
-    "Fanta": {
-      "title": "Fanta",
-      "description": "Orange flavored soda"
-    },
-    "Sprite": {
-      "title": "Sprite",
-      "description": "Lemon-lime soda"
-    },
-    "Red Bull": {
-      "title": "Red Bull",
-      "description": "Energy drink"
-    },
-    "Schweppes Bitter Lemon": {
-      "title": "Schweppes Bitter Lemon",
-      "description": "Citrus blend"
-    },
-    "Schweppes Ginger Ale": {
-      "title": "Schweppes Ginger Ale",
-      "description": "Ginger-flavored soda"
-    },
+    "Fanta": { "title": "Fanta", "description": "Sweet, fizzy, and full of orange flavor." },
+    "Sprite": { "title": "Sprite", "description": "Light, lemon-lime soda – cool and bubbly." },
+    "Red Bull": { "title": "Red Bull", "description": "Energy drink to keep you powered up." },
+    "Schweppes Bitter Lemon": { "title": "Schweppes Bitter Lemon", "description": "Bold and bubbly mixers with a tangy twist." },
+    "Schweppes Ginger Ale": { "title": "Schweppes Ginger Ale", "description": "Bold and bubbly mixers with a tangy twist." },
     "Lipton Green Ice Tea": {
       "title": "Lipton Green Ice Tea",
-      "description": "Green tea iced drink"
+      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood."
     },
     "Lipton Original Sparkling": {
       "title": "Lipton Original Sparkling",
-      "description": "Fizzy iced tea"
+      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood."
     },
     "Lipton Peach Ice Tea": {
       "title": "Lipton Peach Ice Tea",
-      "description": "Peach iced tea"
+      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood."
     },
-    "Orange Juice": {
-      "title": "Orange Juice",
-      "description": "Fresh orange juice"
-    },
-    "Apple Juice": {
-      "title": "Apple Juice",
-      "description": "Sweet apple juice"
-    },
-    "Water": {
-      "title": "Water",
-      "description": "Still water"
-    },
-    "Spa Water": {
-      "title": "Spa Water",
-      "description": "Mineral-rich water"
-    }
+    "Orange Juice": { "title": "Orange Juice", "description": "Freshly squeezed taste in every sip." },
+    "Apple Juice": { "title": "Apple Juice", "description": "Freshly squeezed taste in every sip." },
+    "Water": { "title": "Water", "description": "Pure hydration – still or mineral-rich spa option." },
+    "Spa Water": { "title": "Spa Water", "description": "Pure hydration – still or mineral-rich spa option." }
   }
 }
