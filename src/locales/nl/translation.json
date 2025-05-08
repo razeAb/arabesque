@@ -1,7 +1,8 @@
 {
   "dishes": {
     "title": "Onze Speciale Gerechten",
-    "description": "Ontdek ons menu boordevol gezonde, vullende en smaakvolle gerechten bereid volgens traditionele recepten. Let op 🥛 voor gerechten met melk, en 🌿 voor vegetarische opties."
+    "description": "Ontdek ons menu boordevol gezonde, vullende en smaakvolle gerechten bereid volgens traditionele recepten. Let op 🥛 voor gerechten met melk, en 🌿 voor vegetarische opties.",
+    "phoneTitle": "Voor bezorging bel:"
   },
   "categories": {
     "All": "Alles",

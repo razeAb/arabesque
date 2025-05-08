@@ -29,7 +29,24 @@ const Dishes = () => {
           {t("dishes.title")} {/* ← e.g., "Our Signature Dishes" */}
         </h1>
 
-        <div className="font-Geist tracking-wider text-center dark:text-seconadryText">{t("dishes.description")}</div>
+        <div className="font-Geist tracking-wider text-center dark:text-seconadryText">
+          <p>{t("dishes.description")}</p>
+
+          <div className="bg-red-600 text-white text-center py-2 text-sm md:text-base font-semibold mt-4">
+            {t("dishes.phoneTitle")}
+            <a href="tel:+31687980600" className="underline mx-1">
+              +31 6 87980600
+            </a>{" "}
+            /
+            <a href="tel:+31685566544" className="underline mx-1">
+              +31 6 85566544
+            </a>{" "}
+            /
+            <a href="tel:+31623545600" className="underline mx-1">
+              +31 6 23545600
+            </a>
+          </div>
+        </div>
 
         <div className="w-full flex justify-center items-center my-10">
           <div className="font-Geist grid grid-cols-3 gap-5 md:grid-cols-4 lg:grid-flow-col md:justify-center md:space-x-2">

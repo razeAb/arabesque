@@ -55,6 +55,7 @@ function App() {
   return (
     <div className="w-full min-h-screen bg-bgPrimary-light dark:bg-bgPrimary-dark text-primaryText-light dark:text-primaryText-dark antialiased overflow-x-hidden">
       <Navbar onThemeSwitch={handleThemeSwitch} theme={theme} language={language} onLanguageChange={handleLanguageChange} />
+      
       <Dishes />
       <About />
       <Footer />

@@ -330,6 +330,20 @@ export const DISHESTEXT = {
     <div className="font-Geist tracking-wider text-center dark:text-seconadryText">
       <p>Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes.</p>
       <p>Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options.</p>
+      <div className="bg-red-600 text-white text-center py-2 text-sm md:text-base font-semibold mt-4">
+        For delivery orders call:
+        <a href="tel:+31687980600" className="underline mx-1">
+          +31 6 87980600
+        </a>{" "}
+        /
+        <a href="tel:+31685566544" className="underline mx-1">
+          +31 6 85566544
+        </a>{" "}
+        /
+        <a href="tel:+31623545600" className="underline mx-1">
+          +31 6 23545600
+        </a>
+      </div>
     </div>
   ),
 };

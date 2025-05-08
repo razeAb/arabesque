@@ -1,7 +1,9 @@
 {
   "dishes": {
     "title": "Our Signature Dishes",
-    "description": "Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes. Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options."
+    "description": "Explore our menu filled with healthy, hearty, and flavorful dishes made from traditional recipes. Look for 🥛 to identify dishes that contain milk, and 🌿 for vegetarian options.",
+    "phoneTitle": "For delivery orders call:"
+
   },
   "categories": {
     "All": "All",
