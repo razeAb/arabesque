@@ -97,13 +97,13 @@ export const MAIN_DISHES = [
     price: "15",
   },
   {
-    image: placeholder,
+    image: "./photos/pitaShawarma.jpeg",
     title: "Veal Shawarma – Pita",
     description: "Juicy veal shawarma wrapped in fresh pita with our signature toppings.",
     price: "12",
   },
   {
-    image: placeholder,
+    image: "./photos/vealShawarmaPlate.jpeg",
     title: "Veal Shawarma – Plate",
     description: "Sliced veal shawarma served with a full platter of salad, fries, sauces, and tahini.",
     price: "15",
@@ -139,8 +139,8 @@ export const MAIN_DISHES = [
     price: "12",
   },
   {
-    image: "./photos/crispyChickenBreast.jpg",
-    title: "Crispy Chicken Breast (4 pieces)",
+    image: "./photos/crispyChickenMeal.jpeg",
+    title: "Crispy Chicken Breast (5 pieces)",
     description: "Crispy on the outside, juicy on the inside – served with all the fixings.",
     price: "15",
   },
@@ -169,7 +169,7 @@ export const MAIN_DISHES = [
     price: "10",
   },
   {
-    image: placeholder,
+    image: "./photos/falafelPita.jpeg",
     title: "Falafel in Pita 🌿",
     description: "Classic falafel wrap with crunchy veggies and creamy tahini.",
     price: "7",
@@ -191,6 +191,27 @@ export const MAIN_DISHES = [
     title: "Chicken Mansaf",
     description: "Slow-cooked chicken over spiced rice, finished with tangy yogurt sauce and roasted nuts.",
     price: "15",
+  },
+  {
+    image: "./photos/kapsalon.jpeg", // Add your image or use placeholder
+    title: "Kapsalon",
+    description: "Small 8 / Big 10",
+    price: "8", // Base price
+    category: "Main Dishes"
+  },
+  {
+    image: "./photos/pedaMeat.jpeg", // Replace with actual image or use placeholder
+    title: "Peda Meat",
+    description: "Traditional Turkish-style bread filled with seasoned ground meat.",
+    price: "7",
+    category: "Main Dishes"
+  },
+  {
+    image: "./photos/cheesePeda.jpeg", // Replace with actual image or use placeholder
+    title: "Cheese Peda 🥛",
+    description: "Traditional Turkish-style bread filled with creamy melted cheese.",
+    price: "7",
+    category: "Main Dishes"
   },
 ];
 
@@ -220,92 +241,99 @@ export const PIZZA = [
     description: "Savory pastry filled with seasoned meat.",
     price: "8",
   },
+  {
+    title: "Turkish Pizza",
+    description: "Sade 6 / With salad 8 / With meat or chicken 10",
+    price: 6, // Base price
+    image: "./photos/turkishPizza.jpeg", // Replace with actual image
+    category: "Pizza"
+  },
 ];
 
 export const COLD_DRINKS = [
   {
     image: "./photos/heineken.png",
     title: "Heineken Beer",
-    description: "Crisp and refreshing lager – the perfect chill companion.",
+    description: "Crisp and refreshing lager – the perfect chill companion. 330ml",
     price: "3.5",
   },
   {
     image: "https://yastatic.net/avatars/get-grocery-goods/2783132/f6badaa2-0171-49a3-83b6-8dd3f01c7f48/464x464-origin",
     title: "Coca-Cola Regular / Zero",
-    description: "Classic cola or sugar-free option – always hits the spot.",
+    description: "Classic cola or sugar-free option – always hits the spot. 330ml",
     price: "3.5",
   },
   {
     image: "https://positano.lv/wp-content/uploads/2021/11/fanta-0.5-new.png",
     title: "Fanta",
-    description: "Sweet, fizzy, and full of orange flavor.",
+    description: "Sweet, fizzy, and full of orange flavor. 330ml",
     price: "3.5",
   },
   {
     image: "./photos/sprite.png",
     title: "Sprite",
-    description: "Light, lemon-lime soda – cool and bubbly.",
+    description: "Light, lemon-lime soda – cool and bubbly. 330ml",
     price: "3.5",
   },
   {
     image: "./photos/redBull.png",
     title: "Red Bull",
-    description: "Energy drink to keep you powered up.",
+    description: "Energy drink to keep you powered up. 250ml",
     price: "3.5",
   },
   {
     image: "./photos/schwepslemon.png",
     title: "Schweppes Bitter Lemon",
-    description: "Bold and bubbly mixers with a tangy twist.",
+    description: "Bold and bubbly mixers with a tangy twist. 330ml",
     price: "3.5",
   },
   {
     image: "./photos/gingerale.png",
     title: "Schweppes Ginger Ale",
-    description: "Bold and bubbly mixers with a tangy twist.",
+    description: "Bold and bubbly mixers with a tangy twist. 330ml",
     price: "3.5",
   },
   {
     image: "./photos/liptonicetea.png",
     title: "Lipton Green Ice Tea",
-    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood.",
+    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml",
     price: "3.5",
   },
   {
     image: "https://dutchshopper.com/cdn/shop/files/358674_0a0daf47-4818-4c7c-874d-b474eecf7252.png?v=1736658848",
     title: "Lipton Original Sparkling",
-    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood.",
+    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml",
     price: "3.5",
   },
   {
     image: "./photos/liptonpeach.png",
     title: "Lipton Peach Ice Tea",
-    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood.",
+    description: "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml",
     price: "3.5",
   },
   {
     image: "https://www.burgerking.ee/images/optimized/products/orange-juice-desktop-c65f5afd38678e7dfbbef7ea31ed3308.png",
     title: "Orange Juice",
-    description: "Freshly squeezed taste in every sip.",
+    description: "Freshly squeezed taste in every sip. 330ml",
     price: "3.5",
   },
   {
     image: "https://www.sunlandjuices.com/app/uploads/2021/10/50cl-Sunland-Apple-Juice-LR.png",
     title: "Apple Juice",
-    description: "Freshly squeezed taste in every sip.",
+    description: "Freshly squeezed taste in every sip. 330ml",
     price: "3.5",
   },
   {
     image: "https://www.mcdonalds.co.za/media/products/bonaqua-water/Bonaqua-Still.png",
     title: "Water",
-    description: "Pure hydration – still or mineral-rich spa option.",
+    description: "Pure hydration – still or mineral-rich spa option. 500ml",
     price: "3.5",
   },
   {
     image:
       "https://www.dutchexpatshop.com/media/catalog/product/cache/9dd3e46ff2060608618ae5fa799a3cc1/2/2/220720191648_69147FLS-5_720x720.png",
     title: "Spa Water",
-    description: "Pure hydration – still or mineral-rich spa option.",
+    description: "Pure hydration – still or mineral-rich spa option. 500ml",
     price: "3.5",
   },
 ];
