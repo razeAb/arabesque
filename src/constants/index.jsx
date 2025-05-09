@@ -60,13 +60,13 @@ export const HEALTHY_DISHES = [
   {
     image: "./photos/tabulahealthy.jpeg",
     title: "Tabula 🌿",
-    description: "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty.",
+    description: "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.5, Big: €8",
     price: "4.5",
   },
   {
     image: "./photos/fatushhealthy.jpeg",
     title: "Fatush – Druze Salad 🌿",
-    description: "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing.",
+    description: "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.5, Big: €8",
     price: "4.5",
   },
   {
@@ -78,7 +78,7 @@ export const HEALTHY_DISHES = [
   {
     image: "./photos/choppedsaladhealthy.jpeg",
     title: "Chopped Vegetable Salad 🌿",
-    description: "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing.",
+    description: "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.5, Big: €8",
     price: "4.5",
   },
   {
@@ -197,21 +197,21 @@ export const MAIN_DISHES = [
     title: "Kapsalon",
     description: "Small 8 / Big 10",
     price: "8", // Base price
-    category: "Main Dishes"
+    category: "Main Dishes",
   },
   {
     image: "./photos/pedaMeat.jpeg", // Replace with actual image or use placeholder
     title: "Peda Meat",
     description: "Traditional Turkish-style bread filled with seasoned ground meat.",
     price: "7",
-    category: "Main Dishes"
+    category: "Main Dishes",
   },
   {
     image: "./photos/cheesePeda.jpeg", // Replace with actual image or use placeholder
     title: "Cheese Peda 🥛",
     description: "Traditional Turkish-style bread filled with creamy melted cheese.",
     price: "7",
-    category: "Main Dishes"
+    category: "Main Dishes",
   },
 ];
 
@@ -246,7 +246,7 @@ export const PIZZA = [
     description: "Sade 6 / With salad 8 / With meat or chicken 10",
     price: 6, // Base price
     image: "./photos/turkishPizza.jpeg", // Replace with actual image
-    category: "Pizza"
+    category: "Pizza",
   },
 ];
 

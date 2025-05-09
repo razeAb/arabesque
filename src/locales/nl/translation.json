@@ -1,7 +1,7 @@
 {
   "dishes": {
-    "title": "Onze Speciale Gerechten",
-    "description": "Ontdek ons menu boordevol gezonde, vullende en smaakvolle gerechten bereid volgens traditionele recepten. Let op 🥛 voor gerechten met melk, en 🌿 voor vegetarische opties.",
+    "title": "Onze Signatuurgerechten",
+    "description": "Ontdek ons menu boordevol gezonde, vullende en smaakvolle gerechten op basis van traditionele recepten. Zoek naar 🥛 voor gerechten met melk, en 🌿 voor vegetarische opties.",
     "phoneTitle": "Voor bezorging bel:"
   },
   "categories": {
@@ -15,71 +15,203 @@
   "menu": {
     "Arabesque Breakfast": {
       "title": "Arabesque Ontbijt",
-      "description": "Begin je dag met ei, hummus, bonen, falafel, tabouleh, salade, olijven, mankoeshe en een warme of koude drank."
+      "description": "Begin je dag met een omelet of gekookt ei, hummus, bonen, falafel, tabouleh, gesneden salade, olijven, een mankoesja naar keuze en een warme of koude drank."
     },
-    "Falafel 🌿": { "title": "Falafel 🌿", "description": "Knapperige kikkererwtenballetjes met kruiden" },
-    "Clean Hummus 🌿": { "title": "Schone Hummus 🌿", "description": "Romige hummus van verse kikkererwten" },
-    "Hummus with Meat": { "title": "Hummus met Vlees", "description": "Zachte hummus met gekruid gehakt" },
-    "Beans with Tahina 🌿": { "title": "Bonen met Tahina 🌿", "description": "Volle tuinbonen gemengd met tahin" },
-    "Tahina with Parsley 🌿": { "title": "Tahina met Peterselie 🌿", "description": "Verfrissende tahin met peterselie" },
-    "Tabula 🌿": { "title": "Tabouleh 🌿", "description": "Peterselie, tomaat, bulgur, munt en citroen" },
-    "Fatush – Druze Salad 🌿": { "title": "Fattoush – Druze Salade 🌿", "description": "Salade met pitachips, groenten en sumak" },
-    "Baba Ghanoj 🌿": { "title": "Baba Ghanoush 🌿", "description": "Geroosterde auberginepuree met tahin" },
-    "Chopped Vegetable Salad 🌿": { "title": "Fijngesneden Groentesalade 🌿", "description": "Komkommer, tomaat, munt en olijfolie" },
-    "Fries 🌿": { "title": "Frietjes 🌿", "description": "Goudbruine knapperige frietjes" },
-
-    "Veal Shawarma – Pita": { "title": "Kalfsshoarma – Pita", "description": "Sappige kalfsshoarma in pita met toppings" },
-    "Veal Shawarma – Plate": { "title": "Kalfsshoarma – Bord", "description": "Shoarma met salade, friet, sauzen en tahin" },
-    "Chicken Shawarma – Pita": { "title": "Kipshoarma – Pita", "description": "Malse kipshoarma in pita met groenten en saus" },
-    "Chicken Shawarma – Plate": { "title": "Kipshoarma – Bord", "description": "Gegrilde kipshoarma met salade, friet en bijgerechten" },
-
-    "Grilled Chicken": { "title": "Gegrilde Kip", "description": "Heerlijk gekruide en gegrilde kip" },
-    "Half Grilled Chicken": { "title": "Halve Gegrilde Kip", "description": "Lichte portie gegrilde kip" },
-
+    "Falafel 🌿": {
+      "title": "Falafel 🌿",
+      "description": "Gouden, knapperige kikkererwtenballetjes gekruid met Midden-Oosterse kruiden."
+    },
+    "Clean Hummus 🌿": {
+      "title": "Pure Hummus 🌿",
+      "description": "Onze klassieke romige hummus van verse kikkererwten, tahini, citroen en knoflook."
+    },
+    "Hummus with Meat": {
+      "title": "Hummus met Vlees",
+      "description": "Zachte hummus gegarneerd met gekruid gehakt."
+    },
+    "Beans with Tahina 🌿": {
+      "title": "Bonen met Tahina 🌿",
+      "description": "Heerlijke tuinbonen gemengd met tahinasaus voor een volle smaak."
+    },
+    "Tahina with Parsley 🌿": {
+      "title": "Tahina met Peterselie 🌿",
+      "description": "Verfrissende tahina-dip met fijngehakte peterselie – ideaal om in te dippen of te smeren."
+    },
+    "Tabula 🌿": {
+      "title": "Tabouleh 🌿",
+      "description": "Een frisse salade van peterselie, tomaat, bulgur, munt en citroensap. Klein: €4.5, Groot: €8"
+    },
+    "Fatush – Druze Salad 🌿": {
+      "title": "Fattoush – Druze Salade 🌿",
+      "description": "Traditionele salade met knapperige pita, gemengde groenten, radijs, komkommer en sumakdressing. Klein: €4.5, Groot: €8"
+    },
+    "Baba Ghanoj 🌿": {
+      "title": "Baba Ghanoush 🌿",
+      "description": "Geroosterde auberginepuree met tahina, knoflook en citroen."
+    },
+    "Chopped Vegetable Salad 🌿": {
+      "title": "Gesneden Groentesalade 🌿",
+      "description": "Komkommer, tomaat, ui, munt en olijfolie – simpel, gezond en verfrissend. Klein: €4.5, Groot: €8"
+    },
+    "Fries 🌿": {
+      "title": "Frietjes 🌿",
+      "description": "Goudgele, knapperige frietjes – heerlijk als bijgerecht of snack."
+    },
+    "Veal Shawarma – Pita": {
+      "title": "Kalfsshawarma – Pita",
+      "description": "Sappige kalfsshawarma in vers pitabrood met onze huisgemaakte toppings."
+    },
+    "Veal Shawarma – Plate": {
+      "title": "Kalfsshawarma – Schotel",
+      "description": "Gesneden kalfsvlees met salade, friet, sauzen en tahina."
+    },
+    "Chicken Shawarma – Pita": {
+      "title": "Kip Shawarma – Pita",
+      "description": "Malse kip shawarma in pita met groenten en sauzen."
+    },
+    "Chicken Shawarma – Plate": {
+      "title": "Kip Shawarma – Schotel",
+      "description": "Gegrilde kip shawarma met salade, friet, tahina en bijgerechten."
+    },
+    "Grilled Chicken": {
+      "title": "Gegrilde Kip",
+      "description": "Perfect gegrilde hele kip – sappig en vol smaak."
+    },
+    "Half Grilled Chicken": {
+      "title": "Halve Gegrilde Kip",
+      "description": "Halve portie van onze sappige gegrilde kip – ideaal voor een lichte maaltijd."
+    },
     "Crispy Chicken Breast – Pita": {
       "title": "Krokante Kipfilet – Pita",
-      "description": "Krokante kipfilet in pita met alle toevoegingen"
+      "description": "Krokant van buiten, sappig van binnen – geserveerd in pita met alle toppings."
     },
-    "Crispy Chicken Breast (4 pieces)": {
-      "title": "Krokante Kipfilet (4 stuks)",
-      "description": "4 stuks krokante kipfilet met bijgerechten"
+    "Crispy Chicken Breast (5 pieces)": {
+      "title": "Krokante Kipfilet (5 stuks)",
+      "description": "Krokant van buiten, sappig van binnen – geserveerd met alles erop en eraan."
     },
     "Crispy Chicken Wings (6 pieces)": {
       "title": "Krokante Kipvleugels (6 stuks)",
-      "description": "Perfect gekruide en gefrituurde vleugels"
+      "description": "Perfect gekruide kipvleugels, goudbruin gefrituurd."
     },
-
-    "Broasted Chicken (4 pieces)": { "title": "Broasted Kip (4 stuks)", "description": "Gekruide gefrituurde kip – krokant en sappig" },
-    "Broasted Chicken (8 pieces)": { "title": "Broasted Kip (8 stuks)", "description": "Grote portie krokant gebakken kip" },
-
+    "Broasted Chicken (4 pieces)": {
+      "title": "Broasted Kip (4 stuks)",
+      "description": "Perfect gekruide kipstukken, krokant gebakken."
+    },
+    "Broasted Chicken (8 pieces)": {
+      "title": "Broasted Kip (8 stuks)",
+      "description": "Perfect gekruide kipstukken, krokant gebakken."
+    },
     "Falafel in a Plate (10 Balls) 🌿": {
-      "title": "Falafel op Bord (10 stuks) 🌿",
-      "description": "Falafel met salade, tahina en toppings"
+      "title": "Falafel Schotel (10 stuks) 🌿",
+      "description": "Een royale portie falafel met salade, tahina en garnering."
     },
-    "Falafel in Pita 🌿": { "title": "Falafel in Pita 🌿", "description": "Klassieke wrap met falafel en tahina" },
-
-    "A Dish of Hummus 🌿": { "title": "Portie Hummus 🌿", "description": "Grote portie hummus met dips" },
-    "A Dish of Beans 🌿": { "title": "Portie Bonen 🌿", "description": "Tuinbonen met citroen, knoflook en olie" },
-
-    "Chicken Mansaf": { "title": "Kip Mansaf", "description": "Langzaam gegaarde kip met gekruide rijst en yoghurtsaus" },
-
-    "Small Pizza": { "title": "Kleine Pizza", "description": "Pizza voor één persoon met kaas en krokante bodem" },
-    "Big Pizza": { "title": "Grote Pizza", "description": "Grote familiepizza om te delen" },
-    "Meat Fatayer": { "title": "Vleespastei", "description": "Hartig gebak gevuld met gekruid vlees" },
-
-    "Heineken Beer": { "title": "Heineken Bier", "description": "Verfrissend en licht pilsbier" },
-    "Coca-Cola Regular / Zero": { "title": "Coca-Cola Normaal / Zero", "description": "Klassieke frisdrank of suikervrije variant" },
-    "Fanta": { "title": "Fanta", "description": "Zoete frisdrank met sinaasappelsmaak" },
-    "Sprite": { "title": "Sprite", "description": "Lichte frisdrank met citroen-limoen smaak" },
-    "Red Bull": { "title": "Red Bull", "description": "Energiedrank om je dag op gang te houden" },
-    "Schweppes Bitter Lemon": { "title": "Schweppes Bitter Lemon", "description": "Sprankelende citroendrank met een twist" },
-    "Schweppes Ginger Ale": { "title": "Schweppes Ginger Ale", "description": "Gemberdrank met bubbels" },
-    "Lipton Green Ice Tea": { "title": "Lipton Groene IJsthee", "description": "Verfrissende groene ijsthee met kruiden" },
-    "Lipton Original Sparkling": { "title": "Lipton Origineel Sprankelend", "description": "Sprankelende ijsthee" },
-    "Lipton Peach Ice Tea": { "title": "Lipton Perzik IJsthee", "description": "IJsthee met perziksmaak" },
-    "Orange Juice": { "title": "Sinaasappelsap", "description": "Vers geperst en verfrissend" },
-    "Apple Juice": { "title": "Appelsap", "description": "Zoete en frisse appelsmaak" },
-    "Water": { "title": "Water", "description": "Puur drinkwater – zonder koolzuur of met mineralen" },
-    "Spa Water": { "title": "Spa Water", "description": "Mineraalrijk bronwater" }
+    "Falafel in Pita 🌿": {
+      "title": "Falafel in Pita 🌿",
+      "description": "Klassieke falafelwrap met groenten en romige tahina."
+    },
+    "A Dish of Hummus 🌿": {
+      "title": "Hummusschotel 🌿",
+      "description": "Gulle portie van onze kenmerkende hummus met dips."
+    },
+    "A Dish of Beans 🌿": {
+      "title": "Bonenschotel 🌿",
+      "description": "Warme tuinbonen op smaak gebracht met citroen, knoflook en olijfolie."
+    },
+    "Chicken Mansaf": {
+      "title": "Kip Mansaf",
+      "description": "Langzaam gegaarde kip op gekruide rijst, met yoghurtsaus en geroosterde noten."
+    },
+    "Kapsalon": {
+      "title": "Kapsalon",
+      "description": "Friet, vlees, kaas en salade in één gerecht. Klein €8 / Groot €10"
+    },
+    "Peda Meat": {
+      "title": "Peda met Vlees",
+      "description": "Traditioneel Turks brood gevuld met gekruid gehakt."
+    },
+    "Cheese Peda 🥛": {
+      "title": "Peda met Kaas 🥛",
+      "description": "Turks brood gevuld met gesmolten romige kaas."
+    },
+    "Small Pizza": {
+      "title": "Kleine Pizza",
+      "description": "Persoonlijke pizza met gesmolten kaas en krokante korst."
+    },
+    "Big Pizza": {
+      "title": "Grote Pizza",
+      "description": "Familieformaat pizza – ideaal om te delen, warm en kazig."
+    },
+    "Special Manakeesh": {
+      "title": "Speciale Manakish",
+      "description": "Selectie van verschillende toppings op ovenvers brood."
+    },
+    "Mini Manakeesh 🥛": {
+      "title": "Mini Manakish 🥛",
+      "description": "Kleine broodjes uit de oven – vraag de ober naar de smaken van vandaag."
+    },
+    "Meat Fatayer": {
+      "title": "Vlees Fatayer",
+      "description": "Pasteitje gevuld met gekruid vlees."
+    },
+    "Turkish Pizza": {
+      "title": "Turkse Pizza",
+      "description": "Sade €6 / Met salade €8 / Met vlees of kip €10"
+    },
+    "Heineken Beer": {
+      "title": "Heineken Bier",
+      "description": "Verfrissend licht bier – 330ml"
+    },
+    "Coca-Cola Regular / Zero": {
+      "title": "Coca-Cola Regular / Zero",
+      "description": "Klassieke of suikervrije cola – 330ml"
+    },
+    "Fanta": {
+      "title": "Fanta",
+      "description": "Zoete, bruisende frisdrank met sinaasappelsmaak – 330ml"
+    },
+    "Sprite": {
+      "title": "Sprite",
+      "description": "Lichte frisdrank met citroen-limoensmaak – 330ml"
+    },
+    "Red Bull": {
+      "title": "Red Bull",
+      "description": "Energiedrank om je op te peppen – 250ml"
+    },
+    "Schweppes Bitter Lemon": {
+      "title": "Schweppes Bitter Lemon",
+      "description": "Sprankelende mixer met bittere citrussmaak – 330ml"
+    },
+    "Schweppes Ginger Ale": {
+      "title": "Schweppes Ginger Ale",
+      "description": "Frisdrank met gembersmaak – 330ml"
+    },
+    "Lipton Green Ice Tea": {
+      "title": "Lipton Groene IJsthee",
+      "description": "Verfrissende groene ijsthee – 330ml"
+    },
+    "Lipton Original Sparkling": {
+      "title": "Lipton Origineel Sprankelend",
+      "description": "Sprankelende ijsthee – 330ml"
+    },
+    "Lipton Peach Ice Tea": {
+      "title": "Lipton Perzik IJsthee",
+      "description": "IJsthee met perziksmaak – 330ml"
+    },
+    "Orange Juice": {
+      "title": "Sinaasappelsap",
+      "description": "Versgeperste smaak in elke slok – 330ml"
+    },
+    "Apple Juice": {
+      "title": "Appelsap",
+      "description": "Vers appelsap – 330ml"
+    },
+    "Water": {
+      "title": "Water",
+      "description": "Puur water – plat of mineraalrijk. 500ml"
+    },
+    "Spa Water": {
+      "title": "Spa Water",
+      "description": "Natuurlijk mineraalwater – 500ml"
+    }
   }
 }
