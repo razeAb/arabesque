@@ -112,7 +112,7 @@ export const MAIN_DISHES = [
     image: "./photos/chickenShawamaPita.jpg",
     title: "Chicken Shawarma – Pita",
     description: "Tender chicken shawarma packed in pita with veggies and flavorful sauces.",
-    price: "10",
+    price: "8",
   },
   {
     image: "./photos/chickenShawarma.jpg",
