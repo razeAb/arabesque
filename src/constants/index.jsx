@@ -140,11 +140,11 @@ export const MAIN_DISHES = [
   },
   {
     image: "./photos/crispyChicken.jpg",
-    title: "Crispy Chicken Breast (5 pieces)",
+    title: "Crispy Chicken Breast (4 pieces)",
     description: "Crispy on the outside, juicy on the inside – served with all the fixings.",
     price: "15",
   },
-  
+
   {
     image: "./photos/brostedChicken.jpg",
     title: "Broasted Chicken (4 pieces)",
@@ -204,7 +204,7 @@ export const MAIN_DISHES = [
     image: "./photos/pedaMeat.jpeg", // Replace with actual image or use placeholder
     title: "Peda Meat",
     description: "Traditional Turkish-style bread filled with seasoned ground meat.",
-    price: "7",
+    price: "8",
     category: "Main Dishes",
   },
   {
@@ -217,12 +217,6 @@ export const MAIN_DISHES = [
 ];
 
 export const PIZZA = [
-  {
-    image: "./photos/smallPizza.jpg",
-    title: "Small Pizza 🥛",
-    description: "Personal-size pizza with melted cheese and a golden crust.",
-    price: "4.5",
-  },
   {
     image: "./photos/bigPizzaa.jpg",
     title: "Big Pizza 🥛",
@@ -245,13 +239,13 @@ export const PIZZA = [
     image: "./photos/fagitaPizza.jpg",
     title: "fagita with meat",
     description: "",
-    price: "6",
+    price: "8",
   },
   {
     image: "./photos/mankushemutsarella.jpg",
     title: "muzzarella pizza",
     description: "",
-    price: "6",
+    price: "8",
   },
   {
     image: "./photos/zaatar.jpg",
@@ -259,7 +253,6 @@ export const PIZZA = [
     description: "",
     price: "6",
   },
-  { image: "./photos/miniManakeesh.jpg", title: "Mini Manakeesh 🥛", description: "Ask the waiter", price: "2.5" },
   {
     image: "./photos/turkishPizza.jpg",
     title: "Meat Fatayer",

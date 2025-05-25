@@ -13,205 +13,212 @@
     "Cold Drinks": "Cold Drinks"
   },
   "menu": {
-    "Arabesque Breakfast": {
-      "title": "Arabesque Breakfast",
-      "description": "Start your day with our special omelet or boiled egg, hummus, beans, falafel, tabbouleh, chopped salad, olives, a mankoosha of your choice, and a hot or cold drink."
-    },
-    "Falafel 🌿": {
-      "title": "Falafel 🌿",
-      "description": "Golden, crispy chickpea patties, seasoned with Middle Eastern spices."
-    },
-    "Clean Hummus 🌿": {
-      "title": "Clean Hummus 🌿",
-      "description": "Our classic creamy hummus made from fresh chickpeas, tahini, lemon, and garlic."
-    },
-    "Hummus with Meat": {
-      "title": "Hummus with Meat",
-      "description": "Smooth hummus topped with tender minced meat sautéed in spices."
-    },
-    "Beans with Tahina 🌿": {
-      "title": "Beans with Tahina 🌿",
-      "description": "Hearty fava beans blended with tahini for a rich and earthy flavor."
-    },
-    "Tahina with Parsley 🌿": {
-      "title": "Tahina with Parsley 🌿",
-      "description": "A refreshing tahini dip topped with finely chopped parsley – perfect for dipping or spreading."
-    },
-    "Tabula 🌿": {
-      "title": "Tabula 🌿",
-      "description": "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.5, Big: €8"
-    },
-    "Fatush – Druze Salad 🌿": {
-      "title": "Fatush – Druze Salad 🌿",
-      "description": "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.5, Big: €8"
-    },
-    "Baba Ghanoj 🌿": {
-      "title": "Baba Ghanoj 🌿",
-      "description": "Smoky roasted eggplant mashed with tahini, garlic, and lemon."
-    },
-    "Chopped Vegetable Salad 🌿": {
-      "title": "Chopped Vegetable Salad 🌿",
-      "description": "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.5, Big: €8"
-    },
-    "Fries 🌿": {
-      "title": "Fries 🌿",
-      "description": "Golden, crispy French fries – a perfect side or snack."
-    },
-    "Veal Shawarma – Pita": {
-      "title": "Veal Shawarma – Pita",
-      "description": "Juicy veal shawarma wrapped in fresh pita with our signature toppings."
-    },
-    "Veal Shawarma – Plate": {
-      "title": "Veal Shawarma – Plate",
-      "description": "Sliced veal shawarma served with a full platter of salad, fries, sauces, and tahini."
-    },
-    "Chicken Shawarma – Pita": {
-      "title": "Chicken Shawarma – Pita",
-      "description": "Tender chicken shawarma packed in pita with veggies and flavorful sauces."
-    },
-    "Chicken Shawarma – Plate": {
-      "title": "Chicken Shawarma – Plate",
-      "description": "Grilled chicken shawarma served with salad, fries, tahini, and our full spread of sides."
-    },
-    "Grilled Chicken": {
-      "title": "Grilled Chicken",
-      "description": "Grilled to perfection – juicy and flavorful whole chicken."
-    },
-    "Half Grilled Chicken": {
-      "title": "Half Grilled Chicken",
-      "description": "Half portion of our juicy grilled chicken – perfect for lighter appetites."
-    },
-    "Crispy Chicken Breast – Pita": {
-      "title": "Crispy Chicken Breast – Pita",
-      "description": "Crispy on the outside, juicy on the inside – served in pita with all the fixings."
-    },
-    "Crispy Chicken Breast (5 pieces)": {
-      "title": "Crispy Chicken Breast (5 pieces)",
-      "description": "Crispy on the outside, juicy on the inside – served with all the fixings."
-    },
-    "Crispy Chicken Wings (6 pieces)": {
-      "title": "Crispy Chicken Wings (6 pieces)",
-      "description": "Perfectly seasoned chicken wings fried to golden perfection."
-    },
-    "Broasted Chicken (4 pieces)": {
-      "title": "Broasted Chicken (4 pieces)",
-      "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
-    },
-    "Broasted Chicken (8 pieces)": {
-      "title": "Broasted Chicken (8 pieces)",
-      "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
-    },
-    "Falafel in a Plate (10 Balls) 🌿": {
-      "title": "Falafel in a Plate (10 Balls) 🌿",
-      "description": "A hearty plate of falafel, served with salad, tahini, and our full garnish."
-    },
-    "Falafel in Pita 🌿": {
-      "title": "Falafel in Pita 🌿",
-      "description": "Classic falafel wrap with crunchy veggies and creamy tahini."
-    },
-    "A Dish of Hummus 🌿": {
-      "title": "A Dish of Hummus 🌿",
-      "description": "A generous portion of our signature hummus served with sides for dipping."
-    },
-    "A Dish of Beans 🌿": {
-      "title": "A Dish of Beans 🌿",
-      "description": "Warm fava beans cooked to perfection and seasoned with lemon, garlic, and olive oil."
-    },
-    "Chicken Mansaf": {
-      "title": "Chicken Mansaf",
-      "description": "Slow-cooked chicken over spiced rice, finished with tangy yogurt sauce and roasted nuts."
-    },
-    "Kapsalon": {
-      "title": "Kapsalon",
-      "description": "A Dutch-Turkish fast food dish with fries, meat, cheese, and salad. Small €8 / Big €10"
-    },
-    "Peda Meat": {
-      "title": "Peda Meat",
-      "description": "Traditional Turkish-style bread filled with seasoned ground meat."
-    },
-    "Cheese Peda 🥛": {
-      "title": "Cheese Peda 🥛",
-      "description": "Traditional Turkish-style bread filled with creamy melted cheese."
-    },
-    "Small Pizza": {
-      "title": "Small Pizza",
-      "description": "Personal-size pizza with melted cheese and a golden crust."
-    },
-    "Big Pizza": {
-      "title": "Big Pizza",
-      "description": "Family-size pizza, great for sharing – cheesy, warm, and satisfying."
-    },
-    "Special Manakeesh": {
-      "title": "Special Manakeesh",
-      "description": "Selection of different toppings on oven bread."
-    },
-    "Mini Manakeesh 🥛": {
-      "title": "Mini Manakeesh 🥛",
-      "description": "Mini oven bread – ask the waiter for today's selection."
-    },
-    "Meat Fatayer": {
-      "title": "Meat Fatayer",
-      "description": "Savory pastry filled with seasoned meat."
-    },
-    "Turkish Pizza": {
-      "title": "Turkish Pizza",
-      "description": "Sade €6 / With salad €8 / With meat or chicken €10"
-    },
-    "Heineken Beer": {
-      "title": "Heineken Beer",
-      "description": "Crisp and refreshing lager – the perfect chill companion. 330ml"
-    },
-    "Coca-Cola Regular / Zero": {
-      "title": "Coca-Cola Regular / Zero",
-      "description": "Classic cola or sugar-free option – always hits the spot. 330ml"
-    },
-    "Fanta": {
-      "title": "Fanta",
-      "description": "Sweet, fizzy, and full of orange flavor. 330ml"
-    },
-    "Sprite": {
-      "title": "Sprite",
-      "description": "Light, lemon-lime soda – cool and bubbly. 330ml"
-    },
-    "Red Bull": {
-      "title": "Red Bull",
-      "description": "Energy drink to keep you powered up. 250ml"
-    },
-    "Schweppes Bitter Lemon": {
-      "title": "Schweppes Bitter Lemon",
-      "description": "Bold and bubbly mixers with a tangy twist. 330ml"
-    },
-    "Schweppes Ginger Ale": {
-      "title": "Schweppes Ginger Ale",
-      "description": "Bold and bubbly mixers with a tangy twist. 330ml"
-    },
-    "Lipton Green Ice Tea": {
-      "title": "Lipton Green Ice Tea",
-      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
-    },
-    "Lipton Original Sparkling": {
-      "title": "Lipton Original Sparkling",
-      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
-    },
-    "Lipton Peach Ice Tea": {
-      "title": "Lipton Peach Ice Tea",
-      "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
-    },
-    "Orange Juice": {
-      "title": "Orange Juice",
-      "description": "Freshly squeezed taste in every sip. 330ml"
-    },
-    "Apple Juice": {
-      "title": "Apple Juice",
-      "description": "Freshly squeezed taste in every sip. 330ml"
-    },
-    "Water": {
-      "title": "Water",
-      "description": "Pure hydration – still or mineral-rich spa option. 500ml"
-    },
-    "Spa Water": {
-      "title": "Spa Water",
-      "description": "Pure hydration – still or mineral-rich spa option. 500ml"
-    }
+  "Arabesque Breakfast": {
+    "title": "Arabesque Breakfast",
+    "description": "Start your day with falafel, tabbouleh, salad, olives, mankoosha & drink."
+  },
+  "Falafel 🌿": {
+    "title": "Falafel 🌿",
+    "description": "Golden, crispy chickpea patties, seasoned with Middle Eastern spices."
+  },
+  "Clean Hummus 🌿": {
+    "title": "Clean Hummus 🌿",
+    "description": "Our classic creamy hummus made from fresh chickpeas, tahini, lemon, and garlic."
+  },
+  "Beans with Tahina 🌿": {
+    "title": "Beans with Tahina 🌿",
+    "description": "Hearty fava beans blended with tahini for a rich and earthy flavor."
+  },
+  "Tahina with Parsley 🌿": {
+    "title": "Tahina with Parsley 🌿",
+    "description": "A refreshing tahini dip topped with finely chopped parsley – perfect for dipping or spreading."
+  },
+  "Tabula 🌿": {
+    "title": "Tabula 🌿",
+    "description": "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.5, Big: €8"
+  },
+  "Fatush – Druze Salad 🌿": {
+    "title": "Fatush – Druze Salad 🌿",
+    "description": "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.5, Big: €8"
+  },
+  "Baba Ghanoj 🌿": {
+    "title": "Baba Ghanoj 🌿",
+    "description": "Smoky roasted eggplant mashed with tahini, garlic, and lemon."
+  },
+  "Chopped Vegetable Salad 🌿": {
+    "title": "Chopped Vegetable Salad 🌿",
+    "description": "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.5, Big: €8"
+  },
+  "Fries 🌿": {
+    "title": "Fries 🌿",
+    "description": "Golden, crispy French fries – a perfect side or snack."
+  },
+  "Hummus with Meat": {
+    "title": "Hummus with Meat",
+    "description": "Smooth hummus topped with tender minced meat sautéed in spices."
+  },
+  "lamb Shawarma – Pita": {
+    "title": "Lamb Shawarma – Pita",
+    "description": "Juicy veal shawarma wrapped in fresh pita with our signature toppings."
+  },
+  "lamb Shawarma – Plate": {
+    "title": "Lamb Shawarma – Plate",
+    "description": "Sliced veal shawarma served with a full platter of salad, fries, sauces, and tahini."
+  },
+  "Chicken Shawarma – Pita": {
+    "title": "Chicken Shawarma – Pita",
+    "description": "Tender chicken shawarma packed in pita with veggies and flavorful sauces."
+  },
+  "Chicken Shawarma – Plate": {
+    "title": "Chicken Shawarma – Plate",
+    "description": "Grilled chicken shawarma served with salad, fries, tahini, and our full spread of sides."
+  },
+  "Grilled Chicken": {
+    "title": "Grilled Chicken",
+    "description": "Grilled to perfection – juicy and flavorful whole chicken."
+  },
+  "Half Grilled Chicken": {
+    "title": "Half Grilled Chicken",
+    "description": "Half portion of our juicy grilled chicken – perfect for lighter appetites."
+  },
+  "Crispy Chicken Breast – Pita": {
+    "title": "Crispy Chicken Breast – Pita",
+    "description": "Crispy on the outside, juicy on the inside – served in pita with all the fixings."
+  },
+  "Crispy Chicken Breast (5 pieces)": {
+    "title": "Crispy Chicken Breast (5 pieces)",
+    "description": "Crispy on the outside, juicy on the inside – served with all the fixings."
+  },
+  "Broasted Chicken (4 pieces)": {
+    "title": "Broasted Chicken (4 pieces)",
+    "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
+  },
+  "Broasted Chicken (8 pieces)": {
+    "title": "Broasted Chicken (8 pieces)",
+    "description": "Perfectly seasoned chicken pieces fried to golden crispiness."
+  },
+  "Falafel in a Plate (10 Balls) 🌿": {
+    "title": "Falafel in a Plate (10 Balls) 🌿",
+    "description": "A hearty plate of falafel, served with salad, tahini, and our full garnish."
+  },
+  "Falafel in Pita 🌿": {
+    "title": "Falafel in Pita 🌿",
+    "description": "Classic falafel wrap with crunchy veggies and creamy tahini."
+  },
+  "A Dish of Hummus 🌿": {
+    "title": "A Dish of Hummus 🌿",
+    "description": "A generous portion of our signature hummus served with sides for dipping."
+  },
+  "A Dish of baba ganosh 🌿": {
+    "title": "A Dish of Baba Ganosh 🌿",
+    "description": "A dish of smoky mashed eggplant with tahini, lemon and garlic."
+  },
+  "A Dish of Beans 🌿": {
+    "title": "A Dish of Beans 🌿",
+    "description": "Warm fava beans cooked to perfection and seasoned with lemon, garlic, and olive oil."
+  },
+  "Chicken Mansaf": {
+    "title": "Chicken Mansaf",
+    "description": "Slow-cooked chicken over spiced rice, finished with tangy yogurt sauce and roasted nuts."
+  },
+  "Kapsalon": {
+    "title": "Kapsalon",
+    "description": "Small €8 / Big €10"
+  },
+  "Peda Meat": {
+    "title": "Peda Meat",
+    "description": "Traditional Turkish-style bread filled with seasoned ground meat."
+  },
+  "Cheese Peda 🥛": {
+    "title": "Cheese Peda 🥛",
+    "description": "Traditional Turkish-style bread filled with creamy melted cheese."
+  },
+  "Big Pizza 🥛": {
+    "title": "Big Pizza 🥛",
+    "description": "Family-size pizza, great for sharing – cheesy, warm, and satisfying."
+  },
+  "cheese pizza": {
+    "title": "Cheese Pizza",
+    "description": "Classic cheese pizza with a golden crust."
+  },
+  "cheese pizza with vegetables": {
+    "title": "Cheese Pizza with Vegetables",
+    "description": "Topped with mixed vegetables and mozzarella."
+  },
+  "fagita with meat": {
+    "title": "Fajita Pizza with Meat",
+    "description": "Savory meat fajita toppings on golden baked crust."
+  },
+  "muzzarella pizza": {
+    "title": "Mozzarella Pizza",
+    "description": "Soft crust topped with rich melted mozzarella."
+  },
+  "zaatar": {
+    "title": "Zaatar Manakeesh",
+    "description": "Oven-baked flatbread topped with zaatar blend."
+  },
+  "Meat Fatayer": {
+    "title": "Meat Fatayer",
+    "description": "Savory pastry filled with seasoned meat."
+  },
+  "Turkish Pizza": {
+    "title": "Turkish Pizza",
+    "description": "Sade €6 / With salad €8 / With meat or chicken €10"
+  },
+  "Heineken Beer": {
+    "title": "Heineken Beer",
+    "description": "Crisp and refreshing lager – the perfect chill companion. 330ml"
+  },
+  "Coca-Cola Regular / Zero": {
+    "title": "Coca-Cola Regular / Zero",
+    "description": "Classic cola or sugar-free option – always hits the spot. 330ml"
+  },
+  "Fanta": {
+    "title": "Fanta",
+    "description": "Sweet, fizzy, and full of orange flavor. 330ml"
+  },
+  "Sprite": {
+    "title": "Sprite",
+    "description": "Light, lemon-lime soda – cool and bubbly. 330ml"
+  },
+  "Red Bull": {
+    "title": "Red Bull",
+    "description": "Energy drink to keep you powered up. 250ml"
+  },
+  "Schweppes Bitter Lemon": {
+    "title": "Schweppes Bitter Lemon",
+    "description": "Bold and bubbly mixers with a tangy twist. 330ml"
+  },
+  "Schweppes Ginger Ale": {
+    "title": "Schweppes Ginger Ale",
+    "description": "Bold and bubbly mixers with a tangy twist. 330ml"
+  },
+  "Lipton Green Ice Tea": {
+    "title": "Lipton Green Ice Tea",
+    "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
+  },
+  "Lipton Original Sparkling": {
+    "title": "Lipton Original Sparkling",
+    "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
+  },
+  "Lipton Peach Ice Tea": {
+    "title": "Lipton Peach Ice Tea",
+    "description": "Refreshing iced teas – fruity, herbal, or fizzy to match your mood. 330ml"
+  },
+  "Orange Juice": {
+    "title": "Orange Juice",
+    "description": "Freshly squeezed taste in every sip. 330ml"
+  },
+  "Apple Juice": {
+    "title": "Apple Juice",
+    "description": "Freshly squeezed taste in every sip. 330ml"
+  },
+  "Water": {
+    "title": "Water",
+    "description": "Pure hydration – still or mineral-rich spa option. 500ml"
+  },
+  "Spa Water": {
+    "title": "Spa Water",
+    "description": "Pure hydration – still or mineral-rich spa option. 500ml"
   }
-}
+}}
