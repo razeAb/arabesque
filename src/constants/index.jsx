@@ -121,7 +121,7 @@ export const MAIN_DISHES = [
     price: "14",
   },
   {
-    image: "./photos/halfChicken.jpg",
+    image: "./photos/wholeGrilledChicken.png",
     title: "Grilled Chicken",
     description: "Grilled to perfection – juicy and flavorful whole chicken.",
     price: "25",
@@ -133,7 +133,7 @@ export const MAIN_DISHES = [
     price: "15",
   },
   {
-    image: "./photos/crispyChicken.jpg",
+    image: "./photos/chickenPita.png",
     title: "Crispy Chicken Breast – Pita",
     description: "Crispy on the outside, juicy on the inside – served in pita with all the fixings.",
     price: "12",
@@ -152,7 +152,7 @@ export const MAIN_DISHES = [
     price: "15",
   },
   {
-    image: "./photos/brostedChicken.jpg",
+    image: "./photos/chicken8.png",
     title: "Broasted Chicken (8 pieces)",
     description: "Perfectly seasoned chicken pieces fried to golden crispiness.",
     price: "30",
