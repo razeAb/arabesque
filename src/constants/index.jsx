@@ -91,7 +91,7 @@ export const HEALTHY_DISHES = [
 
 export const MAIN_DISHES = [
   {
-    image: placeholder,
+    image: "./photos/hummusMeat.png",
     title: "Hummus with Meat",
     description: "Smooth hummus topped with tender minced meat sautéed in spices.",
     price: "15",
