@@ -37,55 +37,55 @@ export const HEALTHY_DISHES = [
     image: "./photos/flafelhealthy.jpeg",
     title: "Falafel 🌿",
     description: "Golden, crispy chickpea patties, seasoned with Middle Eastern spices.",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/hummushealthy.jpeg",
     title: "Clean Hummus 🌿",
     description: "Our classic creamy hummus made from fresh chickpeas, tahini, lemon, and garlic.",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/beanshealthy.jpeg",
     title: "Beans with Tahina 🌿",
     description: "Hearty fava beans blended with tahini for a rich and earthy flavor.",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/tahinahealthy.jpeg",
     title: "Tahina with Parsley 🌿",
     description: "A refreshing tahini dip topped with finely chopped parsley – perfect for dipping or spreading.",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/tabulehSalad.jpg",
     title: "Tabula 🌿",
-    description: "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.5, Big: €8",
+    description: "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.99, Big: €8",
     price: "4.99",
   },
   {
     image: "./photos/fatoshDruzeSalad.jpg",
     title: "Fatush – Druze Salad 🌿",
-    description: "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.5, Big: €8",
+    description: "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.99, Big: €8",
     price: "4.99",
   },
   {
     image: "./photos/babahealthy.jpeg",
     title: "Baba Ghanoj 🌿",
     description: "Smoky roasted eggplant mashed with tahini, garlic, and lemon.",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/choppedSalad.jpg",
     title: "Chopped Vegetable Salad 🌿",
-    description: "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.5, Big: €8",
+    description: "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.99, Big: €8",
     price: "4.99",
   },
   {
     image: "./photos/fries.jpeg",
     title: "Fries 🌿",
     description: "Golden, crispy French fries – a perfect side or snack.",
-    price: "4.5",
+    price: "4.99",
   },
 ];
 
@@ -142,7 +142,7 @@ export const MAIN_DISHES = [
     image: "./photos/crispyChicken.jpg",
     title: "Crispy Chicken Breast (4 pieces)",
     description: "Crispy on the outside, juicy on the inside – served with all the fixings.",
-    price: "15",
+    price: "16.99",
   },
 
   {
