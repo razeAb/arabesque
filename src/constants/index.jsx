@@ -61,13 +61,13 @@ export const HEALTHY_DISHES = [
     image: "./photos/tabulehSalad.jpg",
     title: "Tabula 🌿",
     description: "A vibrant salad made of parsley, tomatoes, bulgur, mint, and lemon juice – light and zesty. Small: €4.5, Big: €8",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/fatoshDruzeSalad.jpg",
     title: "Fatush – Druze Salad 🌿",
     description: "A traditional salad with crispy pita, mixed greens, radish, cucumber, and a tangy sumac dressing. Small: €4.5, Big: €8",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/babahealthy.jpeg",
@@ -79,7 +79,7 @@ export const HEALTHY_DISHES = [
     image: "./photos/choppedSalad.jpg",
     title: "Chopped Vegetable Salad 🌿",
     description: "A fresh mix of cucumber, tomato, onion, mint, and olive oil – simple, healthy, and refreshing. Small: €4.5, Big: €8",
-    price: "4.5",
+    price: "4.99",
   },
   {
     image: "./photos/fries.jpeg",
@@ -106,19 +106,19 @@ export const MAIN_DISHES = [
     image: "./photos/vealShawamaPlate.jpg",
     title: "lamb Shawarma – Plate",
     description: "Sliced veal shawarma served with a full platter of salad, fries, sauces, and tahini.",
-    price: "15",
+    price: "15.99",
   },
   {
     image: "./photos/chickenShawamaPita.jpg",
     title: "Chicken Shawarma – Pita",
     description: "Tender chicken shawarma packed in pita with veggies and flavorful sauces.",
-    price: "8",
+    price: "8.99",
   },
   {
     image: "./photos/chickenShawarmaPlate.jpg",
     title: "Chicken Shawarma – Plate",
     description: "Grilled chicken shawarma served with salad, fries, tahini, and our full spread of sides.",
-    price: "14",
+    price: "14.99",
   },
   {
     image: "./photos/wholeGrilledChicken.png",
@@ -130,7 +130,7 @@ export const MAIN_DISHES = [
     image: "./photos/halfChicken.jpg",
     title: "Half Grilled Chicken",
     description: "Half portion of our juicy grilled chicken – perfect for lighter appetites.",
-    price: "15",
+    price: "16.99",
   },
   {
     image: "./photos/chickenPita.png",
@@ -149,7 +149,7 @@ export const MAIN_DISHES = [
     image: "./photos/brostedChicken.jpg",
     title: "Broasted Chicken (4 pieces)",
     description: "Perfectly seasoned chicken pieces fried to golden crispiness.",
-    price: "15",
+    price: "16.99",
   },
   {
     image: "./photos/chicken8.png",
@@ -161,13 +161,13 @@ export const MAIN_DISHES = [
     image: "./photos/falafelplate.jpg",
     title: "Falafel in a Plate (10 Balls) 🌿",
     description: "A hearty plate of falafel, served with salad, tahini, and our full garnish.",
-    price: "10",
+    price: "11.99",
   },
   {
     image: "./photos/falafelPita.jpeg",
     title: "Falafel in Pita 🌿",
     description: "Classic falafel wrap with crunchy veggies and creamy tahini.",
-    price: "7",
+    price: "7.99",
   },
   {
     image: "./photos/hummusPlate.jpg",
@@ -197,7 +197,7 @@ export const MAIN_DISHES = [
     image: "./photos/capselon.jpg", // Add your image or use placeholder
     title: "Kapsalon",
     description: "Small 8 / Big 10",
-    price: "8", // Base price
+    price: "12.99", // Base price
     category: "Main Dishes",
   },
   {
